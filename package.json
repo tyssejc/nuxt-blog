@@ -1,8 +1,8 @@
 {
-  "name": "ntn-boilerplate",
+  "name": "ctysse-net",
   "version": "2.1.2",
-  "description": "Nuxt-Tailwind-NetlifyCMS boilerplate",
-  "author": "Sven Parker <hello+dev@svenparker.com> (https://svenparker.com)",
+  "description": "personal blog",
+  "author": "Charlie Tysse <tyssejc@gmail.com> (https://ctysse.net)",
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Knogobert/ntn-boilerplate#readme"
+    "url": "https://github.com/tyssejc/nuxt-blog#readme"
   },
   "license": "MIT",
   "dependencies": {
