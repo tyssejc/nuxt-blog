@@ -65,8 +65,9 @@ collections:
           label: 'Project Category',
           name: 'category',
           widget: 'select',
-          default: 'animals',
-          options: [{ label: 'Animals', value: 'animals' }, { label: 'Food', value: 'food' }],
+          default: 'adobe-analytics',
+          options:
+            [{ label: 'Adobe Analytics', value: 'adobe-analytics' }, { label: 'Adobe Launch', value: 'adobe-launch' }],
         }
       - { label: 'Title', name: 'title', widget: 'string', required: true }
       - { label: 'Description', name: 'description', widget: 'string', required: false }
