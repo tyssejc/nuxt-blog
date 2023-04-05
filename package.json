@@ -9,6 +9,9 @@
     "start": "nuxt start",
     "generate": "nuxt generate"
   },
+  "engines": {
+    "node": ">=16.20.0"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/tyssejc/nuxt-blog#readme"
